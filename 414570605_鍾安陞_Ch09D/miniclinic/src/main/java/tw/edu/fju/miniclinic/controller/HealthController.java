@@ -19,8 +19,8 @@ public class HealthController {
     @GetMapping("/api/about")
     public Map<String, String> about() {
         return Map.of(
-            "student_id", "414570435",
-            "student_name", "李彥諄",
+            "student_id", "414570605",
+            "student_name", "鍾安陞",
             "project", "MiniClinic",
             "version", "0.1.0",
             "chapter", "Ch09-A"
